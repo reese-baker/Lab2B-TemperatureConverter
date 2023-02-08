@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2B-TemperatureConverter</string>
+
+    <string name="fahrenheitText">Fahrenheit: </string>
+    <string name="celsiusText">Celsius: </string>
+
+    <string name="convertButton">CONVERT</string>
+
+    <string name ="invalidInput">Invalid input</string>
+
+</resources>
